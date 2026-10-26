@@ -1,0 +1,19 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "private",
+  "description": {
+    "names": {
+      "nl": "Voorbeeld oefening",
+      "en": "Example exercise",
+      "fr": "Exercice exemple"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml",
+    "network_enabled": true
+  },
+  "labels": ["voorbeeld", "eenvoudige oefening"],
+  "contact": "Dodona <team@dodona.be>"
+}
