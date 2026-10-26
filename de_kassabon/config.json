@@ -5,11 +5,10 @@
     }
   },
   "evaluation": {
-    "judge": "python",
-    "pythia": {
-      "matrix": "testcases"
-    }
+    "handler": "python",
+    "pythia_judge": "output"
   },
+  "programming_language": "python",
   "labels": [
     "Sequentie",
     "Afronden"
