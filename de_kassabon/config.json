@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "nl": "De Kassabon"
+    }
+  },
+  "evaluation": {
+    "judge": "python",
+    "pythia": {
+      "matrix": "testcases"
+    }
+  },
+  "labels": [
+    "Sequentie",
+    "Afronden"
+  ]
+}
