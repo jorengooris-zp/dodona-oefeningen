@@ -1,7 +1,9 @@
 {
   "description": {
     "names": {
-      "nl": "De Kassabon"
+      "nl": "De Kassabon",
+      "en": "Example exercise",
+      "fr": "Exercice exemple"
     }
   },
   "evaluation": {
@@ -12,5 +14,9 @@
   "labels": [
     "Sequentie",
     "Afronden"
-  ]
+  ],
+  "internals": {
+    "token": "77xNPNNUZ7WRKmMU7y8CWrU4mrfhT3aMTWEFtuZBBgM5K2xHVY-G365-D2sz6-Wc",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
